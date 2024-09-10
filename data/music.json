@@ -1,0 +1,76 @@
+{
+  "music": [
+    {
+      "id": "1",
+      "title": "Like a Prayer",
+      "artist": "Madonna",
+      "genre": "pop"
+    },
+    {
+      "id": "2",
+      "title": "Estoy Aqui",
+      "artist": "Shakira",
+      "genre": "pop"
+    },
+    {
+      "id": "3",
+      "title": "Running Up That Hill",
+      "artist": "Kate Bush",
+      "genre": "pop"
+    },
+    {
+      "id": "4",
+      "title": "Gate of Heaven",
+      "artist": "Heaven's Gate",
+      "genre": "metal"
+    },
+    {
+      "id": "5",
+      "title": "Rebirth",
+      "artist": "Angra",
+      "genre": "metal"
+    },
+    {
+      "id": "6",
+      "title": "Down For Life",
+      "artist": "Testament",
+      "genre": "metal"
+    },
+    {
+      "id": "7",
+      "title": "Cirice",
+      "artist": "Ghost",
+      "genre": "rock"
+    },
+    {
+      "id": "8",
+      "title": "Hey Jude",
+      "artist": "Beatles",
+      "genre": "rock"
+    },
+    {
+      "id": "9",
+      "title": "Every You Every Me",
+      "artist": "Placebo",
+      "genre": "rock"
+    },
+    {
+      "id": "10",
+      "title": "Bay City",
+      "artist": "Junko Yagami",
+      "genre": "citypop"
+    },
+    {
+      "id": "11",
+      "title": "Mayonaka No Door",
+      "artist": "Miki Matsubara",
+      "genre": "citypop"
+    },
+    {
+      "id": "12",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "genre": "citypop"
+    }
+  ]
+}
